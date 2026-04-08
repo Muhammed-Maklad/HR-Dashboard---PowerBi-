@@ -1,6 +1,6 @@
-# 📊 HR Analytics Dashboard — Maklad Tech Solution
+# 📊 HR Analytics Dashboard | Maklad Tech Solution
 
-> A multi-page interactive Power BI dashboard that transforms raw HR data into actionable insights — covering workforce overview, demographics, individual performance, and attrition analysis.
+> A multi-page interactive Power BI dashboard that transforms raw HR data into actionable insights covering workforce overview, demographics, individual performance, and attrition analysis.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Maklad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-maklad)
